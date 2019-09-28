@@ -1,1 +1,3 @@
 #Paramiko_demo
+sftpdemo.py文件实现了上传和下载文件的功能
+paramiko_test.py展示了其中SSHClient的作用，向远程服务器发送command
